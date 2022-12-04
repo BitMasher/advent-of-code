@@ -1,0 +1,12 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "part1": "node part1.js",
+    "part2": "node part2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
